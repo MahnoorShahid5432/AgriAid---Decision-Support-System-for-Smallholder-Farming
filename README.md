@@ -1,6 +1,6 @@
 # 🌾 AgriAid: AI Assistant for Smarter Farming
 
-AgriAid is a multilingual, AI-powered assistant that provides smallholder farmers with real-time, location-specific crop recommendations and yield predictions. By integrating satellite-based weather, soil, and historical yield data, AgriAid empowers farmers to make data-driven decisions that improve planning, reduce risk, and boost crop productivity.
+AgriAid is an AI-powered assistant that provides smallholder farmers with real-time, location-specific crop recommendations and yield predictions. By integrating satellite-based weather, soil, and historical yield data, AgriAid empowers farmers to make data-driven decisions that improve planning, reduce risk, and boost crop productivity.
 
 📁 [Access Full Code, Notebooks & Data](https://drive.google.com/drive/folders/1R9caIbzLSzw0z4uTCExyvy2cVN-kREpC?usp=sharing)
 
